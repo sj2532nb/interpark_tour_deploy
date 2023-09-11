@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/interpark_tour_deploy/static/css/main.3c0e9b7a.css",
+    "main.js": "/interpark_tour_deploy/static/js/main.8ad76f2c.js",
+    "static/media/top_bg_02.jpg": "/interpark_tour_deploy/static/media/top_bg_02.faefb563260173c213c5.jpg",
+    "static/media/230421002_bg.jpg": "/interpark_tour_deploy/static/media/230421002_bg.feeff22cf6b906702fd7.jpg",
+    "static/media/jpg": "/interpark_tour_deploy/static/media/6c87635b37e040bba866192fa7848b6a.6d664ca2a255397fe6cb.jpg",
+    "static/media/topbg1.jpg": "/interpark_tour_deploy/static/media/topbg1.7afab68f8356086ae633.jpg",
+    "static/media/quick_menu.png": "/interpark_tour_deploy/static/media/quick_menu.6f895f52033d9781be8f.png",
+    "static/media/quick_menu_img.png": "/interpark_tour_deploy/static/media/quick_menu_img.880d04b8764435bd52fd.png",
+    "static/media/icon_sns.png": "/interpark_tour_deploy/static/media/icon_sns.110e1c6ddcf92c33ef25.png",
+    "static/media/bgTopMenu.gif": "/interpark_tour_deploy/static/media/bgTopMenu.365313b05b8bf70fb770.gif",
+    "static/media/logo_interpark.svg": "/interpark_tour_deploy/static/media/logo_interpark.6f16d6bab59813fc08165e8969ec4ff4.svg",
+    "static/media/icon_top.svg": "/interpark_tour_deploy/static/media/icon_top.0ef334c90c5557495c3430724bc0467f.svg",
+    "static/media/icon_play.svg": "/interpark_tour_deploy/static/media/icon_play.b4fc716be36c502c5afb.svg",
+    "index.html": "/interpark_tour_deploy/index.html",
+    "static/media/nav_arrow.svg": "/interpark_tour_deploy/static/media/nav_arrow.524d64844a7bb0b256f5dc606159d29b.svg",
+    "static/media/icon_linkArrow.svg": "/interpark_tour_deploy/static/media/icon_linkArrow.ca242fe87e0c3676e8c7.svg",
+    "static/media/slide_arrow.svg": "/interpark_tour_deploy/static/media/slide_arrow.f3e131247e10d947963f.svg",
+    "main.3c0e9b7a.css.map": "/interpark_tour_deploy/static/css/main.3c0e9b7a.css.map",
+    "main.8ad76f2c.js.map": "/interpark_tour_deploy/static/js/main.8ad76f2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0e9b7a.css",
+    "static/js/main.8ad76f2c.js"
+  ]
+}
